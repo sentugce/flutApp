@@ -1,0 +1,1 @@
+ /home/eyl/github_projects/flutapp/.dart_tool/flutter_build/55706c0a44b5380004811d5b9ecc2b9c/native_assets.yaml: 

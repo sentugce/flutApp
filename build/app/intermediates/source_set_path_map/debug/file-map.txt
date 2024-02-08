@@ -1,0 +1,12 @@
+com.example.flutapp-jetified-window-java-1.0.0-beta04-0 /home/eyl/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.flutapp-core-1.6.0-1 /home/eyl/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.flutapp-jetified-annotation-experimental-1.1.0-2 /home/eyl/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.flutapp-jetified-window-1.0.0-beta04-3 /home/eyl/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.flutapp-debug-4 /home/eyl/github_projects/flutapp/android/app/src/debug/res
+com.example.flutapp-main-5 /home/eyl/github_projects/flutapp/android/app/src/main/res
+com.example.flutapp-pngs-6 /home/eyl/github_projects/flutapp/build/app/generated/res/pngs/debug
+com.example.flutapp-resValues-7 /home/eyl/github_projects/flutapp/build/app/generated/res/resValues/debug
+com.example.flutapp-rs-8 /home/eyl/github_projects/flutapp/build/app/generated/res/rs/debug
+com.example.flutapp-mergeDebugResources-9 /home/eyl/github_projects/flutapp/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.flutapp-mergeDebugResources-10 /home/eyl/github_projects/flutapp/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.flutapp-merged_res-11 /home/eyl/github_projects/flutapp/build/app/intermediates/merged_res/debug
